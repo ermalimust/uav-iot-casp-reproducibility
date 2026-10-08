@@ -22,6 +22,27 @@ the complementary manifest binds the exact core manifest. The archive READMEs
 retain preparation-time context; use the dependency and execution instructions
 below for reproduction.
 
+## Revision saved-evidence extension
+
+The separate **revision-evidence-v1** snapshot contains the complete saved local-cost, fixed-policy energy, and predicate-neighborhood evidence. Download **all eight volumes** below and extract them into the same fresh directory. The original-study archives above remain unchanged.
+
+| Volume | Bytes | SHA-256 |
+|---|---:|---|
+| [revision-evidence-v1-fixed-policy-energy-analysis-01.zip](artifacts/revision-evidence-v1-fixed-policy-energy-analysis-01.zip) | 4,568,403 | `b60a193cc829d2d4e198f7a2a281670147d20c81656192956f6eab7ce42739a3` |
+| [revision-evidence-v1-fixed-policy-energy-records-01.zip](artifacts/revision-evidence-v1-fixed-policy-energy-records-01.zip) | 74,866,589 | `df4c9e31e42563cfd27031aa84a2abf2fdd506a6f815859d6fff2b827d1cca8c` |
+| [revision-evidence-v1-fixed-policy-energy-records-02.zip](artifacts/revision-evidence-v1-fixed-policy-energy-records-02.zip) | 74,893,477 | `14126549ec5580b872df8ab8c692ef1074ce50e5f08c673b9e13466fb6449ad7` |
+| [revision-evidence-v1-fixed-policy-energy-records-03.zip](artifacts/revision-evidence-v1-fixed-policy-energy-records-03.zip) | 2,269,931 | `55e7a01135c38e54df795b748e1762956313fd000e42ed7162788ecaff87d601` |
+| [revision-evidence-v1-local-cost-analysis-01.zip](artifacts/revision-evidence-v1-local-cost-analysis-01.zip) | 112,197 | `d470bf492a79b75649576d592e05e9907d4be3014bafecd66846bc32c08cd4b1` |
+| [revision-evidence-v1-local-cost-records-01.zip](artifacts/revision-evidence-v1-local-cost-records-01.zip) | 9,418,825 | `0f7d4ea9d0d58cc14902b012d8a214dfcf847e573e432e0edff468f1c26405d6` |
+| [revision-evidence-v1-predicate-neighborhood-analysis-01.zip](artifacts/revision-evidence-v1-predicate-neighborhood-analysis-01.zip) | 1,310,951 | `9b6ad37d95cb06fdcaf40d274efebfb4a964356488a2e78e25abe0f8f8ed3fa5` |
+| [revision-evidence-v1-shared-code-and-dependencies-01.zip](artifacts/revision-evidence-v1-shared-code-and-dependencies-01.zip) | 1,500,256 | `df073edf02c3ec91ebdc1c4d06041034ca3ed055df0a6f3d976714ee510eb703` |
+
+See [REVISION_EVIDENCE.md](REVISION_EVIDENCE.md) for extraction, verification, and the seven standard-library saved-evidence actions. The shared volume includes the required original-core dependency snapshot; its preserved root README describes the older core only. Use the extension instructions for these checks.
+
+Fresh extraction completed all seven actions and reproduced 27 analysis files: 23 byte-identical CSV/TeX/Markdown files and four exact JSON results after only historical-root normalization and two creation timestamps. [REPRODUCTION_REVISION_EVIDENCE.json](REPRODUCTION_REVISION_EVIDENCE.json) records that local evidence; actual anonymous publication identity is recorded separately. Archive preparation-time wording is retained as provenance, rather than a statement about current repository availability.
+
+This extension does not include the full-native formal raw, fresh online/compositional experiments, or S/B interface diagnostics. It does not measure new online latency or validate a flight controller.
+
 ## Verify and replay without a model request
 
 From the merged extraction:

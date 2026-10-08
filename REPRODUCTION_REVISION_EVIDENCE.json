@@ -1,0 +1,226 @@
+{
+  "status": "PASS_FRESH_SAVED_EVIDENCE_REPRODUCTION",
+  "local_fresh_receipt_sha256": "b4ad278f8c9a14e4e5de269e62139990cf41a1e938ccdff10db58694b00f834d",
+  "public_admin_identity_receipt_sha256": "a2b3450985e9699239ad64ccfc2246f6f4e909c1deb5b97e2abb6d09d65897be",
+  "all_seven_actions_returned_zero": true,
+  "independent_checks": {
+    "local_cost": 524956,
+    "energy": 30722552,
+    "predicates": 518650
+  },
+  "analysis_comparisons": {
+    "cost-summary": {
+      "status": "MATCHES_SAVED_ANALYSIS",
+      "comparisons": [
+        {
+          "path": "by_scenario/S1_seen_burst_east.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "5c7c191b57681747f2b6b39fd170fa60a90ba1a7cefbfa14d3841650531ddece",
+          "recomputed_sha256": "5c7c191b57681747f2b6b39fd170fa60a90ba1a7cefbfa14d3841650531ddece"
+        },
+        {
+          "path": "by_scenario/S2_seen_degrade_west.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "92cf50e22c8bc2a0201d7ec3bea754d938b872541a20c2dd824d6a04adc2ba6a",
+          "recomputed_sha256": "92cf50e22c8bc2a0201d7ec3bea754d938b872541a20c2dd824d6a04adc2ba6a"
+        },
+        {
+          "path": "by_scenario/S3_seen_moved_burst.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "bef6c006172803c62be323b4bc204aa2751940f860eeb89d4c5fdda4e7c0da33",
+          "recomputed_sha256": "bef6c006172803c62be323b4bc204aa2751940f860eeb89d4c5fdda4e7c0da33"
+        },
+        {
+          "path": "by_scenario/S4_heldout_misleading.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "fabfb968b8b39d583b1f04cb7b1872843e7656904293be4353d0d7d2b4916df9",
+          "recomputed_sha256": "fabfb968b8b39d583b1f04cb7b1872843e7656904293be4353d0d7d2b4916df9"
+        },
+        {
+          "path": "figures/original_structural_cost_table.tex",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "9e48d94d3b7b01a8336664d94822699e6f1455b4005c193523ff28ff919c32da",
+          "recomputed_sha256": "9e48d94d3b7b01a8336664d94822699e6f1455b4005c193523ff28ff919c32da"
+        },
+        {
+          "path": "original_structural_cost_report.md",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "fafa357b9e89d64f17b07d9335d6175b1bac03ea843deb8bc51716c352b24689",
+          "recomputed_sha256": "fafa357b9e89d64f17b07d9335d6175b1bac03ea843deb8bc51716c352b24689"
+        },
+        {
+          "path": "overall_cost_summary.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "b8703ad5c1e86bcb43d780067d727a9102a0e4f1ae9fd7385eca6fcc1f5c97fe",
+          "recomputed_sha256": "b8703ad5c1e86bcb43d780067d727a9102a0e4f1ae9fd7385eca6fcc1f5c97fe"
+        },
+        {
+          "path": "paired_increments_per_seed.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "e1d4699876a880927462b47888c3558e3bf9c396213b5b2b49bbe1cf62971809",
+          "recomputed_sha256": "e1d4699876a880927462b47888c3558e3bf9c396213b5b2b49bbe1cf62971809"
+        },
+        {
+          "path": "scenario_cost_summary.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "feb166452a2b9f8410d356184c760a7855cbbd0f6d256631402981737a808811",
+          "recomputed_sha256": "feb166452a2b9f8410d356184c760a7855cbbd0f6d256631402981737a808811"
+        },
+        {
+          "path": "summary.json",
+          "comparison": "exact JSON values/types after root-path normalization",
+          "ignored_administrative_fields": [],
+          "first_difference": null
+        }
+      ]
+    },
+    "energy-summary": {
+      "status": "MATCHES_SAVED_ANALYSIS",
+      "comparisons": [
+        {
+          "path": "findings.md",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "05ff1a948d7b203bf0257239cbc59b85defb6df12ab1a9c7336026f5d0b78811",
+          "recomputed_sha256": "05ff1a948d7b203bf0257239cbc59b85defb6df12ab1a9c7336026f5d0b78811"
+        },
+        {
+          "path": "gate_condition_totals.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "d6efbe421c0409b8f7818af8060a3835b8c3ec43160a75393766e3f64a7c0ac2",
+          "recomputed_sha256": "d6efbe421c0409b8f7818af8060a3835b8c3ec43160a75393766e3f64a7c0ac2"
+        },
+        {
+          "path": "gate_records.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "7a0e5b2973bc32df525d610f7a7b628ad3dd3b551065c29533130d472fcd34c7",
+          "recomputed_sha256": "7a0e5b2973bc32df525d610f7a7b628ad3dd3b551065c29533130d472fcd34c7"
+        },
+        {
+          "path": "gate_summary.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "c26ac8f4c4caabe15fdda7554dbf14f7fa3eb7a7e3c563ba19177a0cd224318c",
+          "recomputed_sha256": "c26ac8f4c4caabe15fdda7554dbf14f7fa3eb7a7e3c563ba19177a0cd224318c"
+        },
+        {
+          "path": "original_fixed_policy_energy_table.tex",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "3ccfa25f0bd0aba2480cd60d86225a4e11aab84cad85e29a723b6253df6e3140",
+          "recomputed_sha256": "3ccfa25f0bd0aba2480cd60d86225a4e11aab84cad85e29a723b6253df6e3140"
+        },
+        {
+          "path": "profile_requirement_records.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "aadef74104b1427ef87f4eaf14a7e5d700a703744f7849203e1c7df368b89901",
+          "recomputed_sha256": "aadef74104b1427ef87f4eaf14a7e5d700a703744f7849203e1c7df368b89901"
+        },
+        {
+          "path": "profile_requirement_summary.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "dbecf36de0c5c0ae0fa6bbd979c1155058fba9fe972b63dab683c986259f61f2",
+          "recomputed_sha256": "dbecf36de0c5c0ae0fa6bbd979c1155058fba9fe972b63dab683c986259f61f2"
+        },
+        {
+          "path": "profile_requirement_totals.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "40fb041ecdc8a8a46c21449011416a2123ac7e4f3fd2a9f9170be25078cb109f",
+          "recomputed_sha256": "40fb041ecdc8a8a46c21449011416a2123ac7e4f3fd2a9f9170be25078cb109f"
+        },
+        {
+          "path": "summary.json",
+          "comparison": "exact JSON values/types after root-path normalization",
+          "ignored_administrative_fields": [
+            "$.created_utc"
+          ],
+          "first_difference": null
+        }
+      ]
+    },
+    "predicates": {
+      "status": "MATCHES_SAVED_ANALYSIS",
+      "comparisons": [
+        {
+          "path": "condition_summary.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "3371df5a616b50224daaf5829b3352b05245b05785b889ff3cf5ca3d87996f27",
+          "recomputed_sha256": "3371df5a616b50224daaf5829b3352b05245b05785b889ff3cf5ca3d87996f27"
+        },
+        {
+          "path": "findings.md",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "c72256f6793064368a81d47bb109999a72a48b8aa44e5c4a0f2f774aa90fedcb",
+          "recomputed_sha256": "c72256f6793064368a81d47bb109999a72a48b8aa44e5c4a0f2f774aa90fedcb"
+        },
+        {
+          "path": "fixed_policy_metrics.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "fcdd7414ef7f2030c2b82934b1e440d912ea3b49da203fea0ec8829db8ee1e3d",
+          "recomputed_sha256": "fcdd7414ef7f2030c2b82934b1e440d912ea3b49da203fea0ec8829db8ee1e3d"
+        },
+        {
+          "path": "original_fixed_policy_contract_neighborhood_table.tex",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "f4bbce07db8b2124b86ba9134c4b09bb74c9c9deee805eef97c8a92cc5fe7168",
+          "recomputed_sha256": "f4bbce07db8b2124b86ba9134c4b09bb74c9c9deee805eef97c8a92cc5fe7168"
+        },
+        {
+          "path": "per_device_metrics.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "afd0ea931af3ab3c158af716a3acfa4e14f9a9999266df687400ef1cecedb623",
+          "recomputed_sha256": "afd0ea931af3ab3c158af716a3acfa4e14f9a9999266df687400ef1cecedb623"
+        },
+        {
+          "path": "predicate_readings.csv",
+          "comparison": "byte identity",
+          "matches": true,
+          "historical_sha256": "dff7332a9a26e8d409930bd9fa8079b2f4bf5003098e8d073ec757a67e778b36",
+          "recomputed_sha256": "dff7332a9a26e8d409930bd9fa8079b2f4bf5003098e8d073ec757a67e778b36"
+        },
+        {
+          "path": "summary.json",
+          "comparison": "exact JSON values/types after root-path normalization",
+          "ignored_administrative_fields": [
+            "$.created_utc"
+          ],
+          "first_difference": null
+        },
+        {
+          "path": "validation.json",
+          "comparison": "exact JSON values/types after root-path normalization",
+          "ignored_administrative_fields": [],
+          "first_difference": null
+        }
+      ]
+    }
+  },
+  "tested_host": {
+    "os": "Windows 10 build 19045",
+    "python": "3.12.14"
+  },
+  "saved_evidence_action_dependencies": "Python standard library only",
+  "simulator_calls": 0,
+  "model_requests": 0,
+  "scope": "Saved records and exact accounting; no new host timing, online latency, controller or physical outcome.",
+  "public_availability": "The actual public commit and anonymous download identity are recorded separately after publication."
+}
