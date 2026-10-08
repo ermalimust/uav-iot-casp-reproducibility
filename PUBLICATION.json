@@ -1,0 +1,38 @@
+{
+  "status": "PASS_ANONYMOUS_PUBLIC_CORE_AND_COMPLEMENTS",
+  "verified_utc": "2026-10-08T05:58:01.165773+00:00",
+  "repository_url": "https://github.com/ermalimust/uav-iot-casp-reproducibility",
+  "artifact_commit": "d82506455c3f7eae748ff6bca6c3ab78de350137",
+  "artifact_commit_url": "https://github.com/ermalimust/uav-iot-casp-reproducibility/tree/d82506455c3f7eae748ff6bca6c3ab78de350137",
+  "anonymous_download_transport": "curl, config disabled; no Authorization/cookies/netrc",
+  "archives": [
+    {
+      "path": "artifacts/publication_original_core_v1_20261008.zip",
+      "version": "original-core-v1",
+      "bytes": 1063032,
+      "sha256": "159b421881fdfa61c30027f85d764d968fa3935ea67cb6193df90352a14872be",
+      "manifest_entries_verified": 149,
+      "verifier_exit_code": 0
+    },
+    {
+      "path": "artifacts/publication_original_complements_public_v1_20261008.zip",
+      "version": "original-complements-v1",
+      "bytes": 893641,
+      "sha256": "5b11d91248ff1ae108f9203a2cf3dad4dbbf4815a94940b259f2d47fb05e2b1b",
+      "manifest_entries_verified": 55,
+      "verifier_exit_code": 0
+    }
+  ],
+  "merged_archive_members": 206,
+  "clean_numerical_check_before_upload": {
+    "cells": 12,
+    "model_requests": 0
+  },
+  "clean_trace_check_before_upload": {
+    "regenerated_statistics_files": 4,
+    "byte_identical_to_original": true
+  },
+  "numerical_or_trace_extraction_repeated_during_anonymous_check": false,
+  "revision_extensions_included": false,
+  "scope": "Original study core and complementary evidence. PPO checkpoint preserved, not loaded in clean check; old reduced ns-3 not rerun."
+}
