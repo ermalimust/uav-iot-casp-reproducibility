@@ -43,6 +43,30 @@ Fresh extraction completed all seven actions and reproduced 27 analysis files: 2
 
 This extension does not include the full-native formal raw, fresh online/compositional experiments, or S/B interface diagnostics. It does not measure new online latency or validate a flight controller.
 
+## Complete native CASP study
+
+The complete 31-node packet-level study is available in the
+[native-formal-v1-20261008 release](https://github.com/ermalimust/uav-iot-casp-reproducibility/releases/tag/native-formal-v1-20261008).
+Its **117 formal volumes** retain all 48,402 inventoried files for 40 matched
+instances, 120 arm records and 7,960 native evaluator calls. Download the
+release's `README-native-formal-v1.md`, `RELEASE_ASSETS.json`,
+`native-formal-v1-tools-and-local-checks.zip` and all 117 formal volumes.
+The automatically generated source-code ZIP/TAR does not include these volumes.
+
+Complete fresh-directory outer, packet-ledger and summary checks passed using
+the unchanged scientific modules. The guide records the tested environment,
+exact administrative differences and commands for reproducing these checks
+without new simulator or model execution. The optional
+`sender_diagnostic_public_candidate_v1.zip` is supplied separately; its finite
+check covers 16 saved R4 records and the two saved-reading tables.
+
+All **121 release assets** were downloaded without authentication and verified,
+including every formal archive member, all 74 tools members and all 404 sender
+companion members. See [PUBLICATION_NATIVE_FORMAL.json](PUBLICATION_NATIVE_FORMAL.json)
+and [ANONYMOUS_NATIVE_FORMAL_BYTES.json](ANONYMOUS_NATIVE_FORMAL_BYTES.json).
+These receipts establish public saved-byte identity; the release guide states
+the scientific scope and the distinction from a new deployment observation.
+
 ## Verify and replay without a model request
 
 From the merged extraction:

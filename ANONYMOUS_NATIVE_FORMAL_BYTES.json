@@ -1,0 +1,17 @@
+{
+  "kind": "fresh_package_only_ZIP_stream_identity_check_not_scientific_audit",
+  "started_utc": "2026-10-08T12:30:45.575298+00:00",
+  "package": "F:\\my-project\\iotj\\revision\\native_formal_anonymous_release_check_20261008_v1\\downloads",
+  "manifest_sha256": "31938830a069c1b6e0198d9127a77ffeafb27846193bd44fd30c8500f32357de",
+  "status": "PASS_ALL_SAVED_BYTES_FROM_PACKAGE_ONLY",
+  "files_verified": 48402,
+  "bytes_verified": 9319788043,
+  "archives_verified": 117,
+  "original_workspace_reads": 0,
+  "full_raw_tree_copies": 0,
+  "new_native_calls": 0,
+  "api_requests": 0,
+  "scientific_reconstruction": false,
+  "anonymous_native_reproduction": false,
+  "completed_utc": "2026-10-08T12:31:46.638623+00:00"
+}

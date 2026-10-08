@@ -1,0 +1,753 @@
+{
+  "status": "PASS_ALL_121_ANONYMOUS_ASSET_AND_COMPLETE_MEMBER_IDENTITIES",
+  "started_utc": "2026-10-08T12:09:24.971515+00:00",
+  "repository": "ermalimust/uav-iot-casp-reproducibility",
+  "tag": "native-formal-v1-20261008",
+  "release_id": 406659678,
+  "publication_freeze_sha256": "8337d37c59cb60ac8ffc94ad2a1694ff79eed0be0d07518124d2f17084ef62ae",
+  "anonymous": true,
+  "credential_lookup": false,
+  "new_native_calls": 0,
+  "model_requests": 0,
+  "automatic_retry": false,
+  "downloaded_assets": [
+    {
+      "name": "native-formal-v1-calls-001.zip",
+      "bytes": 17912664,
+      "sha256": "5854d68b2c5718c225b3c0c5d40d5f294f3e2bb663cabc6deb076d0e1506811f",
+      "server_asset_id": 621377671
+    },
+    {
+      "name": "native-formal-v1-calls-002.zip",
+      "bytes": 17866599,
+      "sha256": "6133c60c623c51a168aaa714f9ef15eac879fd24158921a16c001956fabb75e2",
+      "server_asset_id": 621378918
+    },
+    {
+      "name": "native-formal-v1-calls-003.zip",
+      "bytes": 17873845,
+      "sha256": "aca32f62fd63f04391b1716f80ea904625156815423c90be6433cc3c6ef5c43c",
+      "server_asset_id": 621379960
+    },
+    {
+      "name": "native-formal-v1-calls-004.zip",
+      "bytes": 17858786,
+      "sha256": "7e623d6e7cbdef0013a5778d984e5887bc9d83cf3f151a90f025e113e7c1bcdb",
+      "server_asset_id": 621381215
+    },
+    {
+      "name": "native-formal-v1-calls-005.zip",
+      "bytes": 17621610,
+      "sha256": "b4f276ba6f4681a6b5cc7094fd29b5e669f30b2df1b6042eb059d0c9145c8e10",
+      "server_asset_id": 621382261
+    },
+    {
+      "name": "native-formal-v1-calls-006.zip",
+      "bytes": 17718161,
+      "sha256": "27d766f51ab6817b7823e2ad3e63de28ecfe2f3b5dfe920d4b39d8ff01840008",
+      "server_asset_id": 621383243
+    },
+    {
+      "name": "native-formal-v1-calls-007.zip",
+      "bytes": 17575148,
+      "sha256": "764c7c9e15de9ce668fe1aed12ced50a567420377616b3362f8fad4b096c76e7",
+      "server_asset_id": 621384491
+    },
+    {
+      "name": "native-formal-v1-calls-008.zip",
+      "bytes": 17423946,
+      "sha256": "21b8b769efebb01dfd3b659d7d74ab0bfd4ce33e6c28783e2be2cda449fb284a",
+      "server_asset_id": 621385684
+    },
+    {
+      "name": "native-formal-v1-calls-009.zip",
+      "bytes": 17809061,
+      "sha256": "d271808c80c814dc48443511dab0d5eabfc2d7b249a4e231d3b02b8570c9d3f8",
+      "server_asset_id": 621386838
+    },
+    {
+      "name": "native-formal-v1-calls-010.zip",
+      "bytes": 18359533,
+      "sha256": "75be53ed89d734b0b46e7a241f8aa246ca5ac80497d0bfd12c4c8e8eceb00060",
+      "server_asset_id": 621387966
+    },
+    {
+      "name": "native-formal-v1-calls-011.zip",
+      "bytes": 18877616,
+      "sha256": "bec302151d46027f3d4540ce82c19285b19bbccba8621291cdd31c000c72b48b",
+      "server_asset_id": 621389133
+    },
+    {
+      "name": "native-formal-v1-calls-012.zip",
+      "bytes": 19031312,
+      "sha256": "265d94e2a2ec095590db3e99e0f14b0747074c73df71805dc49106977c0fe345",
+      "server_asset_id": 621390258
+    },
+    {
+      "name": "native-formal-v1-calls-013.zip",
+      "bytes": 19285631,
+      "sha256": "9c61c4f668a8f5abb76924d3da3f190a59e7c95b17208df69b69024a96a7bcd2",
+      "server_asset_id": 621391525
+    },
+    {
+      "name": "native-formal-v1-calls-014.zip",
+      "bytes": 19749014,
+      "sha256": "4d8c209752be02df99f3e8bc13bbbfabe7e45d14c4f661db583a5d8501265bbb",
+      "server_asset_id": 621392726
+    },
+    {
+      "name": "native-formal-v1-calls-015.zip",
+      "bytes": 17883557,
+      "sha256": "05ebc8330d03ebba6ea397843abc68b37dd69b7e9a50bd0a92df5d1054c280a1",
+      "server_asset_id": 621394176
+    },
+    {
+      "name": "native-formal-v1-calls-016.zip",
+      "bytes": 17928323,
+      "sha256": "77a2c03c8afde329a711d746bf992ef17bcfb0355e0756450280d0f45c659ca9",
+      "server_asset_id": 621395387
+    },
+    {
+      "name": "native-formal-v1-calls-017.zip",
+      "bytes": 17790032,
+      "sha256": "df88b7e37e3c1a50c80eeefca2cf96fba8ebe6c93a7aef5f84a4ff8b2fea6cb1",
+      "server_asset_id": 621396590
+    },
+    {
+      "name": "native-formal-v1-calls-018.zip",
+      "bytes": 17716141,
+      "sha256": "316450a315957e7d79ea741a5ad2491e25a9d005d922324870facc3c47a613d6",
+      "server_asset_id": 621397524
+    },
+    {
+      "name": "native-formal-v1-calls-019.zip",
+      "bytes": 17498040,
+      "sha256": "def155bfd83f3b955f5d8d2a17f21c640886ea4524cc29de555e34cf5d7f5a6d",
+      "server_asset_id": 621398656
+    },
+    {
+      "name": "native-formal-v1-calls-020.zip",
+      "bytes": 17672157,
+      "sha256": "ce5e9214cf1597e9befb75c8cd1fa389270ffa23fbd20679a712bb2f7be4f414",
+      "server_asset_id": 621399532
+    },
+    {
+      "name": "native-formal-v1-calls-021.zip",
+      "bytes": 18114428,
+      "sha256": "df550ea0a2ff31ee0194eaf9cec9d852c7f9392874ecfe16d81215471fcde728",
+      "server_asset_id": 621400607
+    },
+    {
+      "name": "native-formal-v1-calls-022.zip",
+      "bytes": 19025473,
+      "sha256": "90b6dcc9ac4f9457bde11d1cfb5bd9820467fa993e74ad29a0f77b7e3e70a241",
+      "server_asset_id": 621401737
+    },
+    {
+      "name": "native-formal-v1-calls-023.zip",
+      "bytes": 19352270,
+      "sha256": "b2f8032f2fa676a69e52e35280f690620eb845e43740cffacd9ca8953ac180e9",
+      "server_asset_id": 621402747
+    },
+    {
+      "name": "native-formal-v1-calls-024.zip",
+      "bytes": 18570764,
+      "sha256": "cd099e05552f4e106f7aeee414e8ebb3fdbbd65563480494452573e29cdc33e6",
+      "server_asset_id": 621403845
+    },
+    {
+      "name": "native-formal-v1-calls-025.zip",
+      "bytes": 18585801,
+      "sha256": "c871d8b541ebc3b43a51aaec6a95db6c933d12e94d64857edfbb78bb9028278d",
+      "server_asset_id": 621405268
+    },
+    {
+      "name": "native-formal-v1-calls-026.zip",
+      "bytes": 18669556,
+      "sha256": "32a73479ad5f59af9fc17d5877bcda880937ca8c985bfff26416e285c5034cf7",
+      "server_asset_id": 621406469
+    },
+    {
+      "name": "native-formal-v1-calls-027.zip",
+      "bytes": 18461230,
+      "sha256": "e27d2d33c5ed92f1bb6bfa9fc3c60dc6574528480552e74215f3c6252dd46129",
+      "server_asset_id": 621407860
+    },
+    {
+      "name": "native-formal-v1-calls-028.zip",
+      "bytes": 18639766,
+      "sha256": "8692a95bffe9ffa729cf0d448d6a5386a220185f1af22bf0027fc8297e8583d0",
+      "server_asset_id": 621408965
+    },
+    {
+      "name": "native-formal-v1-calls-029.zip",
+      "bytes": 18261722,
+      "sha256": "47f342b94704ef2828c382777d54433acd7a00bbe94a213055fa4ac4b2775798",
+      "server_asset_id": 621410291
+    },
+    {
+      "name": "native-formal-v1-calls-030.zip",
+      "bytes": 18145393,
+      "sha256": "870759ef0a7d3310067415cf3ad33d8c961d4b0fd04e828e5892761fb9b69d5f",
+      "server_asset_id": 621411164
+    },
+    {
+      "name": "native-formal-v1-calls-031.zip",
+      "bytes": 17918700,
+      "sha256": "072402ad1815cb69bd575d2e5d95566d3a707522cbbbc0b917087a8761d2bfd3",
+      "server_asset_id": 621412127
+    },
+    {
+      "name": "native-formal-v1-calls-032.zip",
+      "bytes": 16917491,
+      "sha256": "99a0c098060535415db41b7ce6ee76a01b20eecd08a4b54a6d41a65885c9bf0b",
+      "server_asset_id": 621413153
+    },
+    {
+      "name": "native-formal-v1-calls-033.zip",
+      "bytes": 16900358,
+      "sha256": "fcd330924d0b69cf114187036490193a78389a292766b32c7081b718428c169a",
+      "server_asset_id": 621414364
+    },
+    {
+      "name": "native-formal-v1-calls-034.zip",
+      "bytes": 17042283,
+      "sha256": "d1db20c1560d6a1a8035ff8f4b1990c70da28caf76b3dd24425c3ad641cec36e",
+      "server_asset_id": 621415038
+    },
+    {
+      "name": "native-formal-v1-calls-035.zip",
+      "bytes": 17480491,
+      "sha256": "8cddfa6f75e6205ba1bd4815e7a570df873299788cbf3418e0661efa8eeb3a83",
+      "server_asset_id": 621415830
+    },
+    {
+      "name": "native-formal-v1-calls-036.zip",
+      "bytes": 18198202,
+      "sha256": "b078b42a07ff9fdb57faec97efe493aa33d786ff6cfc8e5714704d0bf275e826",
+      "server_asset_id": 621416524
+    },
+    {
+      "name": "native-formal-v1-calls-037.zip",
+      "bytes": 18375685,
+      "sha256": "8962fa478427c081d301930928e7f865383f7efe2137b4c67f17e4d4aaa5810c",
+      "server_asset_id": 621417367
+    },
+    {
+      "name": "native-formal-v1-calls-038.zip",
+      "bytes": 18206021,
+      "sha256": "063e80e2be8218ce33ea4824e485ca7671e4648fc92344ee4d1a43e79491ecbe",
+      "server_asset_id": 621418514
+    },
+    {
+      "name": "native-formal-v1-calls-039.zip",
+      "bytes": 18115382,
+      "sha256": "28ceaba017eaf3f3114ac2392343d688058087410a1ff6abf8c6441f54f09da2",
+      "server_asset_id": 621420009
+    },
+    {
+      "name": "native-formal-v1-calls-040.zip",
+      "bytes": 18210449,
+      "sha256": "a0d33c9532228ebc6b27e3e248e7f550033a071c2571efac380a7bc4e4db1c07",
+      "server_asset_id": 621421022
+    },
+    {
+      "name": "native-formal-v1-calls-041.zip",
+      "bytes": 17152038,
+      "sha256": "8e6fb44ce596a2aa7bed10bafc5dfed7c94270f52beae0a7199923bf2f544867",
+      "server_asset_id": 621421817
+    },
+    {
+      "name": "native-formal-v1-calls-042.zip",
+      "bytes": 17064531,
+      "sha256": "b58963ef26311581b7adff4f82192a4025b7e9b3b8b9840b10fefd371ed96d99",
+      "server_asset_id": 621422712
+    },
+    {
+      "name": "native-formal-v1-calls-043.zip",
+      "bytes": 16726918,
+      "sha256": "58151d1d5407c99b35ffe739276531f81a79bb734527a4d28692e55ac89524fd",
+      "server_asset_id": 621423342
+    },
+    {
+      "name": "native-formal-v1-calls-044.zip",
+      "bytes": 17417397,
+      "sha256": "5bc46a0bd3ceb13223cbcf7c52516813b20744e3f81e8bbdba618a218801eda9",
+      "server_asset_id": 621424274
+    },
+    {
+      "name": "native-formal-v1-calls-045.zip",
+      "bytes": 17699647,
+      "sha256": "739870955b1e1725bbc785316744df75476092e6512a73c53894acdb396d0d87",
+      "server_asset_id": 621425308
+    },
+    {
+      "name": "native-formal-v1-calls-046.zip",
+      "bytes": 17508376,
+      "sha256": "f12e40e693b7b17acabd7ae294438810b072a0c4c2895fb252773cc86568423b",
+      "server_asset_id": 621426162
+    },
+    {
+      "name": "native-formal-v1-calls-047.zip",
+      "bytes": 17390831,
+      "sha256": "ec600e2482b8c087dad75e77631e49fcc3ea280b7514c9f107d6e6b371fb691d",
+      "server_asset_id": 621427348
+    },
+    {
+      "name": "native-formal-v1-calls-048.zip",
+      "bytes": 17225258,
+      "sha256": "400cccf9743bf2ef174a8f067bbb7c74c34aa25a3edee1212b4401b67d3c7ade",
+      "server_asset_id": 621428345
+    },
+    {
+      "name": "native-formal-v1-calls-049.zip",
+      "bytes": 17127774,
+      "sha256": "42ce62f0a3f4c780e96cd2e0e8f5f0b82f075661e879f92bea42eb4018bdb746",
+      "server_asset_id": 621429422
+    },
+    {
+      "name": "native-formal-v1-calls-050.zip",
+      "bytes": 17620670,
+      "sha256": "fe5cab00b5f09ded94c290f446719ba74b0d4df2c55e246717a16dd043a225cd",
+      "server_asset_id": 621430676
+    },
+    {
+      "name": "native-formal-v1-calls-051.zip",
+      "bytes": 17361914,
+      "sha256": "faf5253831e2c8901b61c4140828b91fcabf3d22359d33022547a097529bcfef",
+      "server_asset_id": 621431617
+    },
+    {
+      "name": "native-formal-v1-calls-052.zip",
+      "bytes": 17128394,
+      "sha256": "11a48ebf5c740091de502409e4471e1db7c77568493dd9ff7764898a98b99392",
+      "server_asset_id": 621432579
+    },
+    {
+      "name": "native-formal-v1-calls-053.zip",
+      "bytes": 17427994,
+      "sha256": "a5046ae1e7eccdc2209930972e3d04eacfab093a5fe8182fc1a07c403ee2d91d",
+      "server_asset_id": 621433564
+    },
+    {
+      "name": "native-formal-v1-calls-054.zip",
+      "bytes": 17230677,
+      "sha256": "2eb8a49912ae4ec22966396a4a4e7745e388fb6c0789ac0716b3991fe24889cc",
+      "server_asset_id": 621434485
+    },
+    {
+      "name": "native-formal-v1-calls-055.zip",
+      "bytes": 17525208,
+      "sha256": "454386842f56d7addcebfbb14ccc651c8ae88e5245de50bdf29dac0e73ceec2c",
+      "server_asset_id": 621435393
+    },
+    {
+      "name": "native-formal-v1-calls-056.zip",
+      "bytes": 17068946,
+      "sha256": "972398ad1a6735b95e5364bfbe7d2374f6fb2182126a85475f4e6a6ce84e1bca",
+      "server_asset_id": 621436075
+    },
+    {
+      "name": "native-formal-v1-calls-057.zip",
+      "bytes": 18175402,
+      "sha256": "74e6972f0dc5baf28a6e6d1f06d6b67ecd1bf9c82d24e204255a14f895aa88c4",
+      "server_asset_id": 621437376
+    },
+    {
+      "name": "native-formal-v1-calls-058.zip",
+      "bytes": 18506970,
+      "sha256": "26f44877b8d5df0c8c9f9468ae9d3b84730b81099b275608cf12c3494db6af82",
+      "server_asset_id": 621438366
+    },
+    {
+      "name": "native-formal-v1-calls-059.zip",
+      "bytes": 18719654,
+      "sha256": "13054575d53b30ce3adb4c66d9329093b4552c3ecf6cf4185dccb3f349891803",
+      "server_asset_id": 621439451
+    },
+    {
+      "name": "native-formal-v1-calls-060.zip",
+      "bytes": 17686271,
+      "sha256": "61057b91017effde4bf1c0acd4fe8f57f9a2caa7cbce1b5640f81f30afd62725",
+      "server_asset_id": 621440325
+    },
+    {
+      "name": "native-formal-v1-calls-061.zip",
+      "bytes": 17720192,
+      "sha256": "7c42c3e7f0e8cafea87da587d98d70ad0a3cefc3e16fcabbaf2f4c78ffc0d19d",
+      "server_asset_id": 621441093
+    },
+    {
+      "name": "native-formal-v1-calls-062.zip",
+      "bytes": 18785350,
+      "sha256": "b3f0435675c16342c3f7b4c32c0423c804ed627a6bdf406080b851bd1d7a86b9",
+      "server_asset_id": 621441867
+    },
+    {
+      "name": "native-formal-v1-calls-063.zip",
+      "bytes": 18364307,
+      "sha256": "d34b7309e7e56d87ae6b67e75a07bd7fe16f70b5dfea18a40289964b166f7941",
+      "server_asset_id": 621442875
+    },
+    {
+      "name": "native-formal-v1-calls-064.zip",
+      "bytes": 18479684,
+      "sha256": "7c4c1efacc200f3cab1073e1e86590cf5a67c5f666555a0525ee1065072d39b1",
+      "server_asset_id": 621444642
+    },
+    {
+      "name": "native-formal-v1-calls-065.zip",
+      "bytes": 18426951,
+      "sha256": "eb2027e0145c2a7b94bc3adccc89cb3afd2f1cb7b34e78a95e4dd42a971c1554",
+      "server_asset_id": 621446120
+    },
+    {
+      "name": "native-formal-v1-calls-066.zip",
+      "bytes": 18264297,
+      "sha256": "25e6f54365294cae32152c83e26e10ceaef40b4a49aa38d2a09c5f30600f7d96",
+      "server_asset_id": 621447674
+    },
+    {
+      "name": "native-formal-v1-calls-067.zip",
+      "bytes": 18007118,
+      "sha256": "b747691681e11d5f0b2c40b68f5f7e2277a5df7c244cd79427bae1984ef64147",
+      "server_asset_id": 621449144
+    },
+    {
+      "name": "native-formal-v1-calls-068.zip",
+      "bytes": 18431842,
+      "sha256": "c126ef8ce4e39eb1219572e509190249126eaf14a202d9fd3cfef5856742cc3f",
+      "server_asset_id": 621450400
+    },
+    {
+      "name": "native-formal-v1-calls-069.zip",
+      "bytes": 18447236,
+      "sha256": "0eff9ec69ee3561cf34ce7849ced89e20bef8d0828685fb57e1132271ee754c4",
+      "server_asset_id": 621451393
+    },
+    {
+      "name": "native-formal-v1-calls-070.zip",
+      "bytes": 18354893,
+      "sha256": "d27723dee29c2ce7e26bb82e6a66d99431124e51a6c28c330beacc4bfd159a46",
+      "server_asset_id": 621452752
+    },
+    {
+      "name": "native-formal-v1-calls-071.zip",
+      "bytes": 16824346,
+      "sha256": "485133d9c6c1c037972c772e5f62e388f7ca8653e01bfe04ef8889fb84957179",
+      "server_asset_id": 621454052
+    },
+    {
+      "name": "native-formal-v1-calls-072.zip",
+      "bytes": 17362579,
+      "sha256": "cf0eff2e49a2df7727cc744677b36d078ec1ca222114c878083dd72e523640b8",
+      "server_asset_id": 621455355
+    },
+    {
+      "name": "native-formal-v1-calls-073.zip",
+      "bytes": 17024126,
+      "sha256": "0b96c40cb999d7da1a909ae313ecd76ea5845e551f7f463bfdaae9ed0db3fa02",
+      "server_asset_id": 621456717
+    },
+    {
+      "name": "native-formal-v1-calls-074.zip",
+      "bytes": 17098935,
+      "sha256": "a1ed9952f214034047eac7fc2e03492e1e7f114c714f865856661ceb42a3715f",
+      "server_asset_id": 621457755
+    },
+    {
+      "name": "native-formal-v1-calls-075.zip",
+      "bytes": 17080959,
+      "sha256": "1c3b5fd18d8f1aa5d2c769b25e4f8edcf413faa44b41ba2d0f5128550a4e96e2",
+      "server_asset_id": 621458734
+    },
+    {
+      "name": "native-formal-v1-calls-076.zip",
+      "bytes": 16997178,
+      "sha256": "6cbe964548a474e43b6e334dfa1307f3e7162da465b05396e180c9819e1fe8c2",
+      "server_asset_id": 621459892
+    },
+    {
+      "name": "native-formal-v1-calls-077.zip",
+      "bytes": 17196543,
+      "sha256": "bd8504b7361ef4ec45c41c3690556180a78e78b28f8dc282f4e59bd146a02f9a",
+      "server_asset_id": 621461166
+    },
+    {
+      "name": "native-formal-v1-calls-078.zip",
+      "bytes": 17654336,
+      "sha256": "25d8065e0b6e4877d32a8b0d7217071065a82983a2752d44e8aebed9bf1aba37",
+      "server_asset_id": 621462673
+    },
+    {
+      "name": "native-formal-v1-calls-079.zip",
+      "bytes": 17843212,
+      "sha256": "ff65c2cac8b3298da5f1882ffb98b03408d1631e34c6f13546c4cec61c033cc8",
+      "server_asset_id": 621463957
+    },
+    {
+      "name": "native-formal-v1-calls-080.zip",
+      "bytes": 17803890,
+      "sha256": "d25f471891a1862c470ae11c4811936c8114926856e50fbeb22844e6a8c015cb",
+      "server_asset_id": 621494913
+    },
+    {
+      "name": "native-formal-v1-calls-081.zip",
+      "bytes": 18083047,
+      "sha256": "18316c92694fdb6de82e3e2289abd0acd22a765868adcccb3259db6516d41f48",
+      "server_asset_id": 621495827
+    },
+    {
+      "name": "native-formal-v1-calls-082.zip",
+      "bytes": 18000584,
+      "sha256": "68ef195de12106b9f9b44db0f0aeb3aca3bcf3891ead399218586d14d26e40b6",
+      "server_asset_id": 621496783
+    },
+    {
+      "name": "native-formal-v1-calls-083.zip",
+      "bytes": 18543640,
+      "sha256": "a944205d77e28993bd96a9bc09693a8c654e6c5bf51a89a60ec9ebbca53a054c",
+      "server_asset_id": 621497574
+    },
+    {
+      "name": "native-formal-v1-calls-084.zip",
+      "bytes": 18786317,
+      "sha256": "66bf313227b97ff46d0a843dfa41113c2d6cbb7ad41d52549f460cece39ad121",
+      "server_asset_id": 621498615
+    },
+    {
+      "name": "native-formal-v1-calls-085.zip",
+      "bytes": 18941522,
+      "sha256": "e220e24b7dc0fbeb47d29dcb6d089dc88a0e7dd8ba108c57b679898369c8dd55",
+      "server_asset_id": 621499670
+    },
+    {
+      "name": "native-formal-v1-calls-086.zip",
+      "bytes": 18445054,
+      "sha256": "3889ed66270f15ff3b99b5bee69800cbdc0c693fa8d18111aeb838fbc5fe0c5c",
+      "server_asset_id": 621500477
+    },
+    {
+      "name": "native-formal-v1-calls-087.zip",
+      "bytes": 18522817,
+      "sha256": "cc3917cb0fea5404f67aea98fcbc7a84c9de2be815acab3c72d29b7cd0420f6f",
+      "server_asset_id": 621501187
+    },
+    {
+      "name": "native-formal-v1-calls-088.zip",
+      "bytes": 18271088,
+      "sha256": "33deba22266a2523ae2ce85f68d9c281d4e441734d20f57a78d441c75c6ab9c1",
+      "server_asset_id": 621502289
+    },
+    {
+      "name": "native-formal-v1-calls-089.zip",
+      "bytes": 17698223,
+      "sha256": "f445c0e7682d11d9371dac9753671a5e70315b5e978da586b44cd87197f633b7",
+      "server_asset_id": 621503210
+    },
+    {
+      "name": "native-formal-v1-calls-090.zip",
+      "bytes": 18181055,
+      "sha256": "24d7b0f3a485207714badf7e785815b41d714f0527950d81aabef0d3e8f7eefb",
+      "server_asset_id": 621504049
+    },
+    {
+      "name": "native-formal-v1-calls-091.zip",
+      "bytes": 17839724,
+      "sha256": "a2fc21d27e3bb7f70fbd04cb88e0b7c0a20db70ef41112838d64c87821c5526b",
+      "server_asset_id": 621504962
+    },
+    {
+      "name": "native-formal-v1-calls-092.zip",
+      "bytes": 17859533,
+      "sha256": "955b682b439eb32acd3755a9f96dd03b198eaf45caca4286d06ac3c452c13641",
+      "server_asset_id": 621505796
+    },
+    {
+      "name": "native-formal-v1-calls-093.zip",
+      "bytes": 17777453,
+      "sha256": "ca486010219133fe80ff9fa33e720fb1fa02a2479a316b316d81eeaceedf440f",
+      "server_asset_id": 621506578
+    },
+    {
+      "name": "native-formal-v1-calls-094.zip",
+      "bytes": 18218284,
+      "sha256": "f8b5f6236f4983d07baf1adc0252440bd051f5fc4c5da8e7f576158c44d39030",
+      "server_asset_id": 621507896
+    },
+    {
+      "name": "native-formal-v1-calls-095.zip",
+      "bytes": 18396427,
+      "sha256": "49bef4672fa661d5fc6d63904dde7f47b1678375ce369ec882537b76bdc8917a",
+      "server_asset_id": 621508745
+    },
+    {
+      "name": "native-formal-v1-calls-096.zip",
+      "bytes": 18627451,
+      "sha256": "c63a452d6d6fa539e6245099eb5321d91f8987b7e1864642b36a7b29208a5c0d",
+      "server_asset_id": 621509563
+    },
+    {
+      "name": "native-formal-v1-calls-097.zip",
+      "bytes": 19070999,
+      "sha256": "e9ef904274da0d9e03c13cacb91a0c60dda370931680b81559098a6675545ffe",
+      "server_asset_id": 621510176
+    },
+    {
+      "name": "native-formal-v1-calls-098.zip",
+      "bytes": 18908795,
+      "sha256": "f5238a329728161a8e28fe899a04088b7bedb19a70f65a46c5c1346d7d3aa762",
+      "server_asset_id": 621511095
+    },
+    {
+      "name": "native-formal-v1-calls-099.zip",
+      "bytes": 17914657,
+      "sha256": "3cbfea9285969d8db309392e77f6359a09a0f8901eb08044e16cfdb8b83e328d",
+      "server_asset_id": 621512150
+    },
+    {
+      "name": "native-formal-v1-calls-100.zip",
+      "bytes": 16946234,
+      "sha256": "7cf4bba297e5bf5710f3814f390888fb6f6f13fc2f1179ffb04d75cde71f3637",
+      "server_asset_id": 621512961
+    },
+    {
+      "name": "native-formal-v1-calls-101.zip",
+      "bytes": 16944803,
+      "sha256": "b96e19c298888d0f2c59831474fd50fc1fd1295a93f3a8af74636386b2bd3194",
+      "server_asset_id": 621513672
+    },
+    {
+      "name": "native-formal-v1-calls-102.zip",
+      "bytes": 17187533,
+      "sha256": "8eb8a948bd19c165a14856674ef638e426b07d1a5aa880e83f9946bb74ec4b56",
+      "server_asset_id": 621514764
+    },
+    {
+      "name": "native-formal-v1-calls-103.zip",
+      "bytes": 17163713,
+      "sha256": "a8da3ad64a257cf66b230dd39486f18ffaf495cd1df5012a0593893175e15da4",
+      "server_asset_id": 621515488
+    },
+    {
+      "name": "native-formal-v1-calls-104.zip",
+      "bytes": 17111108,
+      "sha256": "826aaa54a68df89fe71adfb761c9825fa99ff8b9eefd8114ea701e78677c5c1b",
+      "server_asset_id": 621516252
+    },
+    {
+      "name": "native-formal-v1-calls-105.zip",
+      "bytes": 17727517,
+      "sha256": "49093d850680e81bfb6c587d598d24c3926cf4a58545a407991f5fb580e3a22e",
+      "server_asset_id": 621517216
+    },
+    {
+      "name": "native-formal-v1-calls-106.zip",
+      "bytes": 17653693,
+      "sha256": "3d26ccba948d514a87aa3ada5de4eea1a71c224ab8a5c4df0ca357a0ca1e9b33",
+      "server_asset_id": 621518264
+    },
+    {
+      "name": "native-formal-v1-calls-107.zip",
+      "bytes": 17776033,
+      "sha256": "c63de263e101be0ef1be4ec2079d1e7e4d9097d7fc58ce84434b63befde4ed2a",
+      "server_asset_id": 621519781
+    },
+    {
+      "name": "native-formal-v1-calls-108.zip",
+      "bytes": 17782440,
+      "sha256": "ba0cf6ff38901381b892b5ee1ee4a5bae6efc29f54932af5ba4238eb631b6064",
+      "server_asset_id": 621520871
+    },
+    {
+      "name": "native-formal-v1-calls-109.zip",
+      "bytes": 19312594,
+      "sha256": "7ea8b990f7f5b6c9c13d8f4e2cd50bc99bc41d208e25fea2b76d0a06e784e1e3",
+      "server_asset_id": 621522200
+    },
+    {
+      "name": "native-formal-v1-calls-110.zip",
+      "bytes": 19193151,
+      "sha256": "aa0cf6e21cf3b8c9e8d992f341338ac26b68c8beac72ad64914970ed1f7393f7",
+      "server_asset_id": 621523786
+    },
+    {
+      "name": "native-formal-v1-calls-111.zip",
+      "bytes": 18851886,
+      "sha256": "c9990efaa04b5afc32bc81f9f819cd0f65a474d4f95bf7334555819f7f6c6041",
+      "server_asset_id": 621525756
+    },
+    {
+      "name": "native-formal-v1-calls-112.zip",
+      "bytes": 18707791,
+      "sha256": "9d85d3c2f2d1aa9ca0b418f69f177bbe32f64013959c9e29f3f647691ca40308",
+      "server_asset_id": 621527067
+    },
+    {
+      "name": "native-formal-v1-calls-113.zip",
+      "bytes": 18947770,
+      "sha256": "46ef3ef0f8672559cab14b906da242407bb8174394b2bd72b5c987605c25cd99",
+      "server_asset_id": 621528458
+    },
+    {
+      "name": "native-formal-v1-calls-114.zip",
+      "bytes": 18569379,
+      "sha256": "aec5dff3cd4a0a3e06d8f42fc6fc2b348b631831ae672755c1c1a23580c928c7",
+      "server_asset_id": 621529973
+    },
+    {
+      "name": "native-formal-v1-calls-115.zip",
+      "bytes": 18587104,
+      "sha256": "9cb7bc3be19cf480129abb296f1a8e7b0551b76468a149ab94a793ccb35b0f64",
+      "server_asset_id": 621531462
+    },
+    {
+      "name": "native-formal-v1-calls-116.zip",
+      "bytes": 10506395,
+      "sha256": "76ed86d1c5cfd1dd74610c7af74594d12d235739298569232fe9eabd4f5ffe7d",
+      "server_asset_id": 621532285
+    },
+    {
+      "name": "native-formal-v1-index-source-audits.zip",
+      "bytes": 15558252,
+      "sha256": "65a7e0f32d11f87581d7266f9ebc61f816dd26deb3bd11bd821fdcec64172f57",
+      "server_asset_id": 621532698
+    },
+    {
+      "name": "native-formal-v1-tools-and-local-checks.zip",
+      "bytes": 21834385,
+      "sha256": "ca4c04fe9216c8f12c00b779961f29afda20c369f2717f402e27f1a0708a508b",
+      "server_asset_id": 621709482
+    },
+    {
+      "name": "sender_diagnostic_public_candidate_v1.zip",
+      "bytes": 17200661,
+      "sha256": "ec07e5939bc7e9b0a688b35584116f0ab675703b5353a43c348394818360cab6",
+      "server_asset_id": 621710944
+    },
+    {
+      "name": "README-native-formal-v1.md",
+      "bytes": 10387,
+      "sha256": "102f215c085329b829ee671c19de3ff296075b1345eaef9cb2f161022530fa73",
+      "server_asset_id": 621711981
+    },
+    {
+      "name": "RELEASE_ASSETS.json",
+      "bytes": 47573,
+      "sha256": "4cd38431b4e82eef09b811507b12097fb4ea7fc551753307e0065d245944a91e",
+      "server_asset_id": 621712038
+    }
+  ],
+  "tools_members_verified": 74,
+  "tools_complete_local_review_sha256": "5bce506f60a4c433fdc8fbbc2ed781a1462a315051051b3473b3fe6d17ad3728",
+  "sender_members_verified": 404,
+  "formal_archives_verified": 117,
+  "formal_files_verified": 48402,
+  "formal_raw_bytes_verified": 9319788043,
+  "anonymous_byte_receipt_sha256": "2f8028046761c4c3cbe58c963b9ebae63f525fb4d9ae13290c9097863c443dad",
+  "public_url": "https://github.com/ermalimust/uav-iot-casp-reproducibility/releases/tag/native-formal-v1-20261008",
+  "public_published_at": "2026-10-08T12:08:39Z",
+  "scientific_scope": "Public saved bytes exactly match complete locally audited unchanged science; no new mathematical audit/native/LLM observations in this anonymous check",
+  "completed_utc": "2026-10-08T12:31:47.287962+00:00",
+  "entry_sha256": "0cedead9161fdaca3a14ff4eb78468e96923ef9d5e38f27782606f238f1f4894"
+}
