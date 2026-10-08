@@ -1,0 +1,18 @@
+{
+  "repository": "ermalimust/uav-iot-casp-reproducibility",
+  "versions": [
+    "original-core-v1",
+    "original-complements-v1"
+  ],
+  "archives": [
+    {
+      "path": "artifacts/publication_original_core_v1_20261008.zip",
+      "sha256": "159b421881fdfa61c30027f85d764d968fa3935ea67cb6193df90352a14872be"
+    },
+    {
+      "path": "artifacts/publication_original_complements_public_v1_20261008.zip",
+      "sha256": "5b11d91248ff1ae108f9203a2cf3dad4dbbf4815a94940b259f2d47fb05e2b1b"
+    }
+  ],
+  "scope": "Original study only. Publication commit and anonymous public verification are recorded separately after actual upload."
+}
