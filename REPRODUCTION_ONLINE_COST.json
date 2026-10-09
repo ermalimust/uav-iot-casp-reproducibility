@@ -1,0 +1,82 @@
+{
+  "status": "PASS_ALL_PACKAGE_IDENTITIES_AND_FOUR_BYTE_IDENTICAL_SAVED_REPORTS",
+  "scope": "Actual independent fresh ZIP extraction followed by one standard-library saved-record analysis; not a new model/native/simulator observation",
+  "archive": {
+    "path": "artifacts/online-cost-v1-20261009.zip",
+    "bytes": 383567,
+    "sha256": "4c98732a20fb08e7caffe2106af977ff17b9c2e9ed67be50cbf281a67d07e2d4"
+  },
+  "manifest": {
+    "bytes": 39103,
+    "sha256": "a4ae581a1c045e2f7a5a4265eda521c9c29e83674043069dc94ba25c3edb0611"
+  },
+  "all_90_archive_members_verified": true,
+  "verified_payload_files_before_and_after": 89,
+  "full_package_unchanged_after_saved_analysis": true,
+  "source_copies_verified": 17,
+  "original_saved_live_files_verified": 64,
+  "completed_request_artifacts_verified": 48,
+  "reporter_exit_code": 0,
+  "reporter_invocations": 1,
+  "new_model_requests": 0,
+  "network_calls_during_fresh_local_check": 0,
+  "new_simulator_or_native_calls": 0,
+  "configuration_or_credentials_read": false,
+  "experiment_modules_imported": false,
+  "automatic_retries": 0,
+  "four_report_comparisons": {
+    "original_structural_online_cost_table.tex": {
+      "expected": {
+        "bytes": 818,
+        "sha256": "00d23fb3db0d12a8af1e54c8c33c6d5ff76e76912c019a8843105b0be64db6ab"
+      },
+      "actual": {
+        "bytes": 818,
+        "sha256": "00d23fb3db0d12a8af1e54c8c33c6d5ff76e76912c019a8843105b0be64db6ab"
+      },
+      "byte_identical": true
+    },
+    "per_task.csv": {
+      "expected": {
+        "bytes": 2352,
+        "sha256": "cd3bc84139eaa4c076b54a4576c8da9d2569ceca8602b0d109b9e195ad641384"
+      },
+      "actual": {
+        "bytes": 2352,
+        "sha256": "cd3bc84139eaa4c076b54a4576c8da9d2569ceca8602b0d109b9e195ad641384"
+      },
+      "byte_identical": true
+    },
+    "report.md": {
+      "expected": {
+        "bytes": 1019,
+        "sha256": "79c914516d5934cb8807cd2efdf70d2f8b8ca9690c8244566493fa3ab7421d4d"
+      },
+      "actual": {
+        "bytes": 1019,
+        "sha256": "79c914516d5934cb8807cd2efdf70d2f8b8ca9690c8244566493fa3ab7421d4d"
+      },
+      "byte_identical": true
+    },
+    "summary.json": {
+      "expected": {
+        "bytes": 2247,
+        "sha256": "b53824ea127be92530dcaefb9612f11b1fb7f3ad35652b0aef2eb92268ab1e21"
+      },
+      "actual": {
+        "bytes": 2247,
+        "sha256": "b53824ea127be92530dcaefb9612f11b1fb7f3ad35652b0aef2eb92268ab1e21"
+      },
+      "byte_identical": true
+    }
+  },
+  "retained_local_extraction_receipt_identity": {
+    "bytes": 18304,
+    "sha256": "88c2a66445e1c9b8527009d2650fff4016682269fa23107b4893a4fd8e530bbc"
+  },
+  "retained_local_offline_receipt_identity": {
+    "bytes": 35549,
+    "sha256": "1837762be9f768f9272b579adb8bf2e3b7a7829e9c47b67c402715e12ffd9db5"
+  },
+  "fresh_check_completed_utc": "2026-10-09T00:38:40.602881+00:00"
+}

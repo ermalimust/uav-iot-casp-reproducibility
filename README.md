@@ -67,6 +67,25 @@ and [ANONYMOUS_NATIVE_FORMAL_BYTES.json](ANONYMOUS_NATIVE_FORMAL_BYTES.json).
 These receipts establish public saved-byte identity; the release guide states
 the scientific scope and the distinction from a new deployment observation.
 
+## Current online cost illustration
+
+The separate [online-cost-v1-20261009 companion](ONLINE_COST.md) retains the
+prespecified twelve current online tasks, their complete saved records, exact
+source provenance, and a standard-library offline cost reporter. It made twelve
+fresh model requests with zero retries/probes and records 759 candidate plus 12
+nominal evaluations, with 4,924 reported tokens. Diagnosis-to-promotion median
+and sample p95 were 6.268 and 7.128 seconds on the recorded host, including
+request/response persistence and excluding worker startup/preparation and final
+cell-artifact writing. These twelve tasks are a current cost illustration, not
+a new effectiveness comparison or a deployment deadline/tail guarantee.
+
+The archive is separate from the 117 formal native volumes and 121 native
+release assets. Fresh local extraction verified all 90 members and reproduced
+all four saved-record reports byte for byte, with no model or simulator run.
+See [VERSION_ONLINE_COST.json](VERSION_ONLINE_COST.json) and
+[REPRODUCTION_ONLINE_COST.json](REPRODUCTION_ONLINE_COST.json) for identities and
+the tested offline scope. The existing study archives remain unchanged.
+
 ## Verify and replay without a model request
 
 From the merged extraction:
